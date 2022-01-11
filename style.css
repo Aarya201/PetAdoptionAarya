@@ -1,0 +1,27 @@
+.ul {
+    text-align: right;
+}
+.b123 {
+    background-color: rgb(255, 0, 102);
+    font-size: 25px; 
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+}
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+    text-align: center;
+}
+
+.p_modal {
+    margin-top: 10px;
+   font-weight: bolder;
+   font-size: 20px;
+}
+
+.modal-body {
+    text-align: center
+}
